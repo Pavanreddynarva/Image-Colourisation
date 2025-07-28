@@ -1,10 +1,7 @@
-Here’s a complete and professional `README.md` for your **AI Image Colorization with OpenCV** project. I’ve included a dedicated section for uploading sample images.
 
----
 
-### ✅ `README.md` (Copy-paste this to your GitHub)
+### ✅ `README.md` 
 
-```markdown
 # 🖼️ AI Image Colorization using OpenCV & Deep Learning 🎨
 
 This project uses a pre-trained deep learning model to convert grayscale (black and white) images into realistic colorized images using OpenCV and a deep CNN architecture. The application is built with Python and has an interactive UI using **Streamlit**.
@@ -13,7 +10,7 @@ This project uses a pre-trained deep learning model to convert grayscale (black 
 
 ## 📂 Project Structure
 
-```
+
 
 ├── Input\_images/           # Upload your grayscale images here
 ├── Result\_images/          # Generated colorized output images
@@ -22,9 +19,9 @@ This project uses a pre-trained deep learning model to convert grayscale (black 
 ├── requirements.txt        # Python libraries to install
 └── README.md               # Project documentation
 
-````
 
----
+
+
 
 ## 🚀 How to Run the Project
 
@@ -56,20 +53,17 @@ This project uses a pre-trained deep learning model to convert grayscale (black 
 
 ---
 
-## 🌄 Sample Images
+ 🌄 Sample Images
 
-You can test the model using some grayscale images in the `Input_images` folder. After processing, colorized results will be saved in the `Result_images` folder.
+![pexels-pixabay-36755](https://github.com/user-attachments/assets/c8b067fd-f6db-4d8e-8f64-ab712a0f292a)
+![colored_c8](https://github.com/user-attachments/assets/383e403b-9657-4947-9be0-d079017a1211)
 
-### 🔼 Upload Your Own Images
-
-* Add your **grayscale (black & white)** `.png` or `.jpg` images to the `Input_images/` folder.
-* The output will be automatically saved to `Result_images/` when you run the app.
 
 ---
 
 ## 🧠 Model Information
 
-* Model type: `CNN-based` (e.g., U-Net or VGG16-based encoder-decoder)
+* Model type: `CNN-based` 
 * Framework: `TensorFlow / Keras`
 * Model file: `models/colorization_model.h5` (pre-trained)
 
@@ -83,27 +77,11 @@ You can test the model using some grayscale images in the `Input_images` folder.
 * NumPy
 * Streamlit (UI)
 
----
 
-## 👨‍💻 Author
 
-**Pavan Reddy Narva**
-📧 [LinkedIn](https://www.linkedin.com/in/pavanreddynarva) | [GitHub](https://github.com/Pavanreddynarva)
+ 👨‍💻 Author
 
----
+Pavan Reddy Narva
+📧 [LinkedIn](https://www.linkedin.com/in/pavan-reddy-narva-207266325/) | [GitHub](https://github.com/Pavanreddynarva)
 
-## 📃 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
-
-```
-
----
-
-Let me know if you'd like:
-- A `LICENSE` file
-- To include screenshots of the UI in the README
-- Or if you want me to push this to your GitHub directly via instructions
-
-Just say the word, and I’ll handle it fast 🚀
-```
