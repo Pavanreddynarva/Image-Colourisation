@@ -20,48 +20,15 @@ This project uses a pre-trained deep learning model to convert grayscale (black 
 └── README.md               # Project documentation
 
 
+Input image  and  output image :
+<img width="477" height="246" alt="image" src="https://github.com/user-attachments/assets/20f9912c-bf10-43e3-8eda-f29202f55f52" />
 
 
 
-## 🚀 How to Run the Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Pavanreddynarva/Image-Colourisation.git
-   cd Image-Colourisation
-````
-
-2. **Create a virtual environment** (recommended)
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # On Linux/macOS
-   .\venv\Scripts\activate       # On Windows
-   ```
-
-3. **Install required libraries**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the app**
-
-   ```bash
-   streamlit run app.py
-   ```
-
----
-
- 🌄 Sample Images
-
-![pexels-pixabay-36755](https://github.com/user-attachments/assets/c8b067fd-f6db-4d8e-8f64-ab712a0f292a)
-![colored_c8](https://github.com/user-attachments/assets/383e403b-9657-4947-9be0-d079017a1211)
 
 
----
 
-## 🧠 Model Information
+ 🧠 Model Information
 
 * Model type: `CNN-based` 
 * Framework: `TensorFlow / Keras`
