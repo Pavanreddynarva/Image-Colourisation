@@ -7,7 +7,7 @@
 This project uses a pre-trained deep learning model to convert grayscale (black and white) images into realistic colorized images using OpenCV and a deep CNN architecture. The application is built with Python and has an interactive UI using **Streamlit**.
 
 ---
-Input image  and  output image :
+output image  and  input image :
 
 
 
